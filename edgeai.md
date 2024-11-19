@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![image2](assets/asds.png)
+
 In the rapidly evolving field of artificial intelligence, computer vision stands out as one of the most transformative technologies. From autonomous vehicles to smart security systems, the applications of computer vision are vast and varied. Traditionally, these models were deployed on powerful cloud servers, but recent advancements have enabled their deployment on edge devices. Edge devices range from high-end hardware like NVIDIA Jetson to low-end microcontrollers. This article explores the intricacies of deploying computer vision models on different types of edge devices, the challenges involved, and the potential benefits.
 
 Edge devices refer to hardware that performs data processing at or near the data source, rather than relying on centralized cloud servers. They can be categorized into:

@@ -1,6 +1,6 @@
 # Introduction To DataClasses
 
-![image1.](/Users/btereomotere/Desktop/technical_write-up/technical_writing_abu/assets/asds.png)
+![image1](edgesd.png)
 
 ## Introduction
 
