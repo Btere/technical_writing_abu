@@ -1,6 +1,6 @@
-# technical_writing_abu
+# technical_writing_blog
 
-This repository showcases a range of technical writing projects, demonstrating our ability to communicate complex technical concepts clearly and concisely. It includes:
+This repository showcases a range of technical writing projects that is posted on different social media platform Linkedln, Medium, X among others, demonstrating our ability to communicate complex technical concepts clearly and concisely. It includes:
 
 * **Deploying Models on Edge Devices:** This project explores the challenges and best practices for deploying machine learning models on resource-constrained devices, such as IoT devices and mobile phones.
 * **Data Class:** This project delves into the concept of data classes in Python, a powerful tool for organizing and structuring data in a concise and efficient manner.
