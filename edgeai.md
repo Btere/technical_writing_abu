@@ -16,7 +16,7 @@ Edge devices refer to hardware that performs data processing at or near the data
 
 **Intel Movidius Neural Compute Stick**: Provides an easy way to add deep learning capabilities to existing systems.
 
-![Example of high_end](assets/Ai_fram.png)
+![Example of high_end](assets/nvidia.png)
 
 ## Low-End Edge Devices:
 
@@ -26,7 +26,7 @@ Edge devices refer to hardware that performs data processing at or near the data
 
 **ESP32**: An affordable microcontroller with integrated Wi-Fi and Bluetooth, suitable for lightweight models.
 
-![Example of low_end](assets/Ai_fram.png)
+![Example of low_end](assets/mcu.png)
 
 
 ## Choosing the appropriate models and hardware
