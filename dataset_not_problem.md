@@ -1,6 +1,6 @@
 # When dataset is not the problem to low accuracy in Edge AI
 
-![image1](edgesd.png)
+![image1](assets/edgesd.png)
 
 Building robust AI models for Edge applications, like predictive maintenance, is an intricate process, especially when these models are deployed in environments with limited resources like low-end devices like MCU, single board computer(SBCs), Mobile and wearable devices, Digital Signal Processing(DSP) and FPGA among others.
 

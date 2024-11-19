@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![image2](assets/asds.png)
+![image2](assets/Ai_fram.png)
 
 In the rapidly evolving field of artificial intelligence, computer vision stands out as one of the most transformative technologies. From autonomous vehicles to smart security systems, the applications of computer vision are vast and varied. Traditionally, these models were deployed on powerful cloud servers, but recent advancements have enabled their deployment on edge devices. Edge devices range from high-end hardware like NVIDIA Jetson to low-end microcontrollers. This article explores the intricacies of deploying computer vision models on different types of edge devices, the challenges involved, and the potential benefits.
 
@@ -16,6 +16,8 @@ Edge devices refer to hardware that performs data processing at or near the data
 
 **Intel Movidius Neural Compute Stick**: Provides an easy way to add deep learning capabilities to existing systems.
 
+![Example of high_end](assets/Ai_fram.png)
+
 ## Low-End Edge Devices:
 
 **Raspberry Pi**: A versatile, low-cost microcomputer suitable for simpler models.
@@ -23,6 +25,8 @@ Edge devices refer to hardware that performs data processing at or near the data
 **Arduino**: Primarily used for basic image processing tasks due to its limited computational power.
 
 **ESP32**: An affordable microcontroller with integrated Wi-Fi and Bluetooth, suitable for lightweight models.
+
+![Example of low_end](assets/Ai_fram.png)
 
 
 ## Choosing the appropriate models and hardware

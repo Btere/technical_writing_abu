@@ -1,6 +1,6 @@
 # Introduction To DataClasses
 
-![image1](edgesd.png)
+![image1](assets/asds.png)
 
 ## Introduction
 
